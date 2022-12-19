@@ -9,6 +9,7 @@ let scores = [60, 50, 60, 58, 54, 54, 58, 50, 52, 54, 48, 69, 34, 55, 51, 52, 44
             highScore = scores[i]
         }
     }
-    
+    console.log("Bubbles tests: " + scores.length);
+    console.log("Highest bubble score: " + highScore);
 
 
